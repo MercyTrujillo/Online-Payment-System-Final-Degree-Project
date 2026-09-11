@@ -1,4 +1,4 @@
-# ONLINE PAYMENT SYSTEM FINAL DEGREE PROJECT
+# PAYMENT SYSTEM FINAL DEGREE PROJECT
 
 ## Overview
 Designed and developed a full-stack online payment system that simulates real-world payment workflows, including transaction processing, frontend interaction, and cloud deployment.
